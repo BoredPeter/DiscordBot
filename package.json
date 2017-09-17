@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoredPeter/DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoredPeter/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/BoredPeter/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "unirest": "^0.5.1"
+  }
+}
